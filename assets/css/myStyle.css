@@ -1,0 +1,11 @@
+.mainImg a img{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; */
+    width: 900px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    flex-direction: column;
+    mix-blend-mode: color-burn;
+}
